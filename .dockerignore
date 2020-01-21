@@ -1,0 +1,11 @@
+.idea/
+logstash/
+project/
+src/
+Dockerfile
+.dockerignore
+.gitignore
+.git/
+build.sbt
+docker-compose.yml
+Readme.md
